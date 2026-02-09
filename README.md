@@ -1,4 +1,4 @@
-"<div align="center">
+<div align="center">
 
 # 🐍 DAW Optativa - Python
 
@@ -154,4 +154,4 @@ pip install -r requirements.txt
 
 **Desarrollado con 💙 durante el ciclo formativo DAW**
 
-</div>" 
+</div>
